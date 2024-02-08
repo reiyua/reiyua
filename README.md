@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at: [https://github.com/reiyua?tab=repositories](https://github.com/reiyua?tab=repositories)
 
-- 💬 Ask me about: **python**
+- 💬 Ask me about: **React.js and Google Fireabase**
 
 - 📫 How to reach me: **rei@reiyua.lol**
 
