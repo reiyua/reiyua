@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on: [Some personal projects for friends.](https://github.com/reiyua?tab=repositories)
 
-- 🌱 I’m currently learning: **React.js, Bootstrap, React-Bootstrap, Firebase**
+- 🌱 I’m currently learning: **React.js, Bootstrap, React-Bootstrap, Google Firebase**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/reiyua?tab=repositories](https://github.com/reiyua?tab=repositories)
 
