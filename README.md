@@ -39,5 +39,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reiyua&" alt="reiyua" /></p>
 
-# Discord RPC </br>
-[![Discord Presence](https://lanyard.cnrad.dev/api/1024179829911855234?idleMessage=eating,afk%20or%20sleeping)](https://discord.com/users/1024179829911855234)</br>
