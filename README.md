@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reiyua" alt="reiyua" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/reiyua_" target="blank"><img src="https://img.shields.io/twitter/follow/reiyua_?logo=twitter&style=for-the-badge" alt="reiyua_" /></a> </p>
-
 - 🔭 I’m currently working on: [Some personal projects for friends.](https://github.com/reiyua?tab=repositories)
 
 - 🌱 I’m currently learning: **React.js, Bootstrap, React-Bootstrap, Google Firebase**
@@ -21,7 +19,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/reiyua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="reiyua" height="30" width="40" /></a>
-<a href="https://twitter.com/reiyua_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="reiyua_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rayyanhodges" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rayyanhodges" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22635744" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22635744" height="30" width="40" /></a>
 <a href="https://codesandbox.com/reiyua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="reiyua" height="30" width="40" /></a>
