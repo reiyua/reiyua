@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm reiyua (or simply rei)</h1>
 <h3 align="center">A geek who live's and breathes tech.</h3>
 <h3 align ="center"> I like building things random things, most of the time, it is React, sometimes it isn't though.</h3>
+<h3 align ="center"> Outside of tech though, I love hanging out with close friends and going on roadtrips.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reiyua&label=Profile%20views&color=0e75b6&style=flat" alt="reiyua" /> </p>
 
