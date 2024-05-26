@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at: [https://github.com/reiyua?tab=repositories](https://github.com/reiyua?tab=repositories)
 
-- 💬 Ask me about: **React.js and Google Fireabase**
+- 💬 Ask me about: **Technology in general, particularly retro stuff**
 
 - 📫 How to reach me: **rei@reiyua.lol**
 
