@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on: [Some personal projects for friends.](https://github.com/reiyua?tab=repositories)
 
-- 🌱 I’m currently learning: ** MS Powershell**
+- 🌱 I’m currently learning: **MS Powershell**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/reiyua?tab=repositories](https://github.com/reiyua?tab=repositories)
 
